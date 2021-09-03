@@ -1,2 +1,2 @@
 # google_play_scraper
- scraping google play games - titles, ratings, descriptions
+ scraping google play games // TODO: simple data cleaning
